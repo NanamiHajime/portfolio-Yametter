@@ -1,0 +1,6 @@
+# Yametter
+twitter_access.pyファイル内のsearch_word変数の単語についてのツイートを検索し、
+
+ロジスティック回帰モデルを利用してネガティブなツイートをハイライトします。
+
+フロントエンド：streamlit
